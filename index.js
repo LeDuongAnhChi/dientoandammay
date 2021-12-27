@@ -11,10 +11,10 @@ app.set("views", "./views");
 
  
 // create application/x-www-form-urlencoded parser
-console.log('con ga be be no dau can k tre')
+console.log('con ga be be no dau canh tre 123')
 
 
-
+console.log('chan vlk ')
 
 app.get('/', (req, res) => {
   res.render("index")
