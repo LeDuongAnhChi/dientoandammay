@@ -14,7 +14,12 @@ app.set("views", "./views");
 console.log('con ga be be no dau canh tre 123')
 
 
+<<<<<<< HEAD
 console.log('chan vlk ')
+=======
+console.log('con heo be be')
+
+>>>>>>> bf82fd9e10a525a458f9c9c264258369f5f07beb
 
 app.get('/', (req, res) => {
   res.render("index")
