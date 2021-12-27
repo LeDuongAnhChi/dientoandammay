@@ -4,4 +4,4 @@ con heo be be
 
 
 con ga
-git add .
+git 
